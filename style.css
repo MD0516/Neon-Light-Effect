@@ -17,6 +17,7 @@ h1{
     font-size: 150px;
     cursor: pointer;
     transition: 0.5s;
+    user-select:none;
 }
 
 h1:hover{
